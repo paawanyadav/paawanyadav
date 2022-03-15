@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @paawanyadav
-- 👀 I’m interested in Pyhton C IOT HTML & CSS Competitive Programmin C++ Web Technologies 
-- 🌱 I’m currently learning Web Devlopment 
-- 📫 How to reach me @paawanyadav My insta account you can DM me
+- 👀 I’m interested in Pyhton C IOT HTML & CSS Competitive Programming DevOps [Ansible,Jenkins,Terraform,Docker]
+- 🌱 I’m currently learning DevOps and tools. 
+- 📫 How to reach me >> https://www.linkedin.com/in/pawan-yadav-b997281b4 my linkedin profile
 
 <!---
 paawanyadav/paawanyadav is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
